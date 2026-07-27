@@ -10,7 +10,7 @@
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Reading%20color%20names%20based%20on%20the%20font%20color.png" />
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Reading%20color%20names%20based%20on%20the%20font%20color.png" />
 
