@@ -1,1 +1,1 @@
-# a-b-testing-tests-for-proportions
+# A/B Testing, Testing a Statistical Hypothesis
