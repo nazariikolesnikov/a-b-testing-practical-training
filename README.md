@@ -1,4 +1,4 @@
-# A/B Testing and Testing a Statistical Hypothesis
+# A/B Testing and Testing a Statistical Hypothesis (Practical Training)
 
 ## 🤖 Technologies
 
