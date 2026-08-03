@@ -15,7 +15,7 @@ This project is a custom toolkit for conducting `A/B testing`, testing statistic
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20180%20successes%20(N%20%3D%201000).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20(Variant%20A%20(with%20200%20successes)%20vs%20Variant%20B%20(with%20150%20successes)).png" />
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/a-b-testing-practical-training/blob/main/AB%20Testing%20Results%20200%20sucesses%20versus%20150%20successes%20(N%20%3D%201000).png" />
 
